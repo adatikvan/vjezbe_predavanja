@@ -1,0 +1,55 @@
+/* 1. Reset osnovnih margina i paddinga za sve elemente */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* 2. Osnovni stil za cijelu stranicu */
+body {
+    /* ovdje idu deklaracije za font i pozadinsku boju stranice */
+}
+
+/* 3. Header dio stranice */
+header {
+    /* ovdje idu deklaracije za pozadinsku boju, border, margin i padding */
+}
+
+/* 4. Banner slika unutar headera */
+.banner img {
+    /* ovdje idu deklaracije za širinu slike i da nema razmaka ispod slike */
+}
+
+/* 5. Navigacija ispod bannera */
+nav {
+    /* ovdje idu deklaracije za pozadinsku boju navigacije, padding i gornji margin */
+}
+
+/* 6. Lista u navigaciji */
+ul {
+    /* ovdje idu deklaracije za list-style, margin i padding */
+}
+
+/* 7. Stavke liste u navigaciji */
+li {
+    /* ovdje idu deklaracije za prikaz u jednom redu i razmak desno */
+}
+
+/* 8. Linkovi u navigaciji */
+a {
+    /* ovdje idu deklaracije za text-decoration, boju teksta, border, padding i veličinu fonta */
+}
+
+/* 9. Glavni sadržaj (main) */
+main {
+    /* ovdje idu deklaracije za pozadinsku boju, border, margin i padding */
+}
+
+/* 10. Tekst u glavnom sadržaju */
+main p {
+    /* ovdje ide deklaracija za razmak između redova (line-height) */
+}
+
+/* 11. Footer */
+footer {
+    /* ovdje idu deklaracije za poravnanje teksta, veličinu fonta, boju teksta i donji margin */
+}
